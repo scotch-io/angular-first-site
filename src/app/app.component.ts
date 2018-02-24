@@ -5,6 +5,9 @@ import { Component } from '@angular/core';
   template: `
     <!-- header -->
     <app-header></app-header>
+
+    <!-- testing the contact page -->
+    <app-contact></app-contact>
     
     <!-- testing the home page -->
     <app-home></app-home>
